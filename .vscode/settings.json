@@ -1,0 +1,18 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3308,
+            "driver": "MySQL",
+            "name": "slave",
+            "database": "cadastro",
+            "username": "root"
+        }
+    ]
+}
